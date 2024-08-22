@@ -1,7 +1,7 @@
 //Declare two string variables and concatenate them. Display the result.
 
-function concateString(str1,str2){
-    console.log(str1+str2);
+function concateString(str1:String,str2:String){
+    console.log(str1,str2);
 }
 
 let string1="enter string 1";

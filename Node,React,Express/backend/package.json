@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend for give the data to frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonika2502/SonataTrainingPhase2.git"
+  },
+  "author": "Sonika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonika2502/SonataTrainingPhase2/issues"
+  },
+  "homepage": "https://github.com/sonika2502/SonataTrainingPhase2#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
